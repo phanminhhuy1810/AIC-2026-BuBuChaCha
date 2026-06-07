@@ -1,0 +1,47 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ===== Moi truong ao (may ai nay tu tao tu requirement) =====
+aic-env/
+venv/
+.venv/
+env/
+
+# ===== Du lieu & model nang (KHONG day len GitHub) =====
+data/
+datasets/
+*.mp4
+*.avi
+*.mkv
+*.zip
+*.tar
+*.tar.gz
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.bin
+*.npy
+*.npz
+*.faiss
+*.index
+
+# ===== Secrets (token, API key) - TUYET DOI khong commit =====
+.env
+*.key
+secrets.*
+hf_token*
+token.txt
+
+# ===== He dieu hanh / IDE =====
+.DS_Store
+.vscode/
+.idea/
+
+# ===== Output tam =====
+outputs/
+tmp/
+*.log
