@@ -1,26 +1,12 @@
-# AI Challenge 2026 - core libs (GĐ1-2). Cài: pip install -r requirements.txt
-# PyTorch ban CPU cho local; viec nang chay tren Colab/Kaggle GPU.
- 
-# Core
 numpy
 pandas
 matplotlib
 scikit-learn
 jupyter
 tqdm
- 
-# Deep learning
 torch
 torchvision
- 
-# Multimodal / retrieval (LOI cua de thi)
-transformers          # HuggingFace models (CLIP, BLIP...)
-open_clip_torch       # CLIP de dung
-faiss-cpu             # vector search (Colab nen dung faiss-gpu)
-pillow                # xu ly anh
- 
-# He thong (them o GD3)
-# openai-whisper      # ASR (audio -> text)
-# easyocr             # OCR
-# streamlit           # UI tim kiem
- 
+transformers
+open_clip_torch
+faiss-cpu
+pillow
