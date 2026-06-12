@@ -10,3 +10,11 @@ transformers
 open_clip_torch
 faiss-cpu
 pillow
+opencv-python
+yt-dlp
+easyocr
+streamlit
+openai-whisper
+ultralytics
+supervision
+google-generativeai
