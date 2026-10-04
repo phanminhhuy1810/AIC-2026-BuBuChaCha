@@ -45,3 +45,6 @@ token.txt
 outputs/
 tmp/
 *.log
+
+# Local editor, system and generated files
+.claude/
