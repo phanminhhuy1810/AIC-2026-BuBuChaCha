@@ -2,7 +2,7 @@
 
 An ongoing learning project for exploring AI, machine learning, and multimedia retrieval. I use this repository to work through small examples, try existing models, and build prototypes while preparing for the Ho Chi Minh City AI Challenge 2026, Division A.
 
-The code was developed with AI assistance. The focus is on understanding the ideas, running experiments, and gradually improving the prototypes.
+The focus is on understanding the ideas, running experiments, and gradually improving the prototypes.
 
 ## Project status
 
