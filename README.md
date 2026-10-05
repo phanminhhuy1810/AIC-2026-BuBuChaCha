@@ -1,6 +1,14 @@
 # AIC-2026-BuBuChaCha
 
-Learning scripts and a multimedia search prototype developed with AI assistance while preparing for the Ho Chi Minh City AI Challenge 2026, Division A.
+An ongoing learning project for exploring AI, machine learning, and multimedia retrieval. I use this repository to work through small examples, try existing models, and build prototypes while preparing for the Ho Chi Minh City AI Challenge 2026, Division A.
+
+The code was developed with AI assistance. The focus is on understanding the ideas, running experiments, and gradually improving the prototypes.
+
+## Project status
+
+This project is still in development. The current repository contains learning scripts and an experimental video-search interface. Retrieval quality has not been benchmarked, and competition submission is not implemented.
+
+The next steps are to review and test the existing code, make the search workflow more reliable, and evaluate it on a small set of queries with known relevant frames.
 
 ## What's here
 
@@ -11,7 +19,7 @@ The `learn/` directory contains 16 Python scripts covering:
 - Video keyframe extraction, EasyOCR, Whisper transcription, YOLO detection, and ByteTrack tracking.
 - Temporal search, an optional Gemini visual question-answering demo, and a Streamlit search interface.
 
-The [Streamlit prototype](learn/ui1_app.py) supports separate CLIP, OCR, ASR, object-count, and temporal search modes. It is an experimental learning tool; retrieval quality has not been benchmarked and competition submission is not implemented.
+The [Streamlit prototype](learn/ui1_app.py) supports separate CLIP, OCR, ASR, object-count, and temporal search modes. The modes are separate experiments that share the same interface.
 
 ## Setup
 
