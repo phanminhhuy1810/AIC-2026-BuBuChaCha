@@ -1,4 +1,4 @@
-# AIC-2026-BuBuChaCha
+# AIC Video Retrieval
 
 An ongoing learning project for exploring AI, machine learning, and multimedia retrieval. I use this repository to work through small examples, try existing models, and build prototypes while preparing for the Ho Chi Minh City AI Challenge 2026, Division A.
 
